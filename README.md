@@ -97,13 +97,4 @@ bench --site yoursite.local install-app event_management
 bench migrate
 bench start
 
-<img width="1881" height="888" alt="image" src="https://github.com/user-attachments/assets/3180ead3-ac48-4e06-ba09-9348d1520f2c" />
-<img width="1263" height="660" alt="image" src="https://github.com/user-attachments/assets/c1d01945-5dae-4924-acdf-c8340c60e375" />
-<img width="1894" height="935" alt="Screenshot 2026-01-20 120410" src="https://github.com/user-attachments/assets/7c94859d-c468-4f7f-a6da-ce1b8b0dd8ea" />
-<img width="1894" height="982" alt="Screenshot 2026-01-20 120102" src="https://github.com/user-attachments/assets/f2f288c3-8966-4373-bc30-e84b30620601" />
-<img width="1891" height="962" alt="Screenshot 2026-01-20 120119" src="https://github.com/user-attachments/assets/7dce24bf-9f01-4f64-ad74-5066be0743ba" />
-<img width="1907" height="984" alt="Screenshot 2026-01-20 120011" src="https://github.com/user-attachments/assets/f6043079-2a72-4de6-8546-0b052779af9b" />
-<img width="1900" height="976" alt="Screenshot 2026-01-20 120037" src="https://github.com/user-attachments/assets/c129bb96-4847-40a7-b429-4f087fe15db3" />
-<img width="1903" height="983" alt="Screenshot 2026-01-20 115857" src="https://github.com/user-attachments/assets/787111a7-1b25-490d-a233-12259b9a7ced" />
-<img width="1084" height="968" alt="Screenshot 2026-01-20 115940" src="https://github.com/user-attachments/assets/390ec3d7-35c7-4ed6-ba83-09acbce999c0" />
-
+https://drive.google.com/drive/folders/1BLknHFphdOnCC3akkhtFkN0vLrDq5aLD?usp=drive_link
