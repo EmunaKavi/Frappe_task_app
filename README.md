@@ -97,4 +97,5 @@ bench --site yoursite.local install-app event_management
 bench migrate
 bench start
 
+Screenshots of the output:
 https://drive.google.com/drive/folders/1BLknHFphdOnCC3akkhtFkN0vLrDq5aLD?usp=drive_link
